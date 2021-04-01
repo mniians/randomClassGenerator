@@ -2,7 +2,7 @@ const weapons = {
   assaultRifles: {
     M4A1: {
       attachments: {
-        muzzle: ['Flash Guard', 'Breacher Device', 'Tactical Suppressor', ;'Muzzle Brake', 'Lightweight Suppressor', 'Compensator', 'Monolithic Suppressor'],
+        muzzle: ['Flash Guard', 'Breacher Device', 'Tactical Suppressor', 'Muzzle Brake', 'Lightweight Suppressor', 'Compensator', 'Monolithic Suppressor'],
         barrel: ['FSS 11.5" Commando', 'Stock M16 Grenadier', 'FSS 14.5" Tac Lite', 'Corvus Custom Marksman', 'FSS 12.4" Predator'],
         laser: ['1mW Laser', '5mW Laser', 'tac laser'],
         optic: ['Cronen LP945 Mini Reflex', 'Corp Combat Holo Sight', 'Operator Reflex Sight', 'Scout Combat Optic', '4.0 Flip Hybrid', 'Aim-Op Reflex Sight', 'APX5 Holographic Sight', 'Integral Hybrid', 'Solozero NVG Enhanced', 'VLK 3.0 Optic', 'Sniper Scope', 'Viper Reflex Sight', 'G.I. Mini Reflex', 'PBX Holo 7 Sight', 'Cronen C480 Pro Optic', 'Monocle Reflex Sight', 'Variable Zoom Scope', 'Canted Hybrid', 'Merc Thermal Optic', 'Thermal Hybrid'],
@@ -67,54 +67,54 @@ const weapons = {
     },
     FAL: {
       attachments: {
-        muzzle: [],
-        barrel: [],
-        laser: [],
-        optic: [],
-        stock: [],
-        underbarrel: [],
-        ammunition: [],
-        rearGrip: [],
-        perks: []
+        muzzle: ['Flash Guard', 'Breacher Device', 'Tactical Suppressor', ;'Muzzle Brake', 'Lightweight Suppressor', 'Compensator', 'Monolithic Suppressor'],
+        barrel: ['18.0" Ultralight', 'XRK Marksman', '13.0" OSW Para'],
+        laser: ['1mW Laser', '5mW Laser', 'tac laser'],
+        optic: ['Cronen LP945 Mini Reflex', 'Corp Combat Holo Sight', 'Operator Reflex Sight', 'Scout Combat Optic', '4.0 Flip Hybrid', 'Aim-Op Reflex Sight', 'APX5 Holographic Sight', 'Integral Hybrid', 'Solozero NVG Enhanced', 'VLK 3.0 Optic', 'Sniper Scope', 'Viper Reflex Sight', 'G.I. Mini Reflex', 'PBX Holo 7 Sight', 'Cronen C480 Pro Optic', 'Monocle Reflex Sight', 'Variable Zoom Scope', 'Canted Hybrid', 'Merc Thermal Optic', 'Thermal Hybrid'],
+        stock: ['M-16 Stock', 'Stinguard Arms Invader', 'No Stock', 'FORGE TAC CQS'],
+        underbarrel: ['Commando Foregrip', 'M203 40mm High-explosive', 'M203 40mm Incediary', '12-Guage Deputy', 'Merc Foregrip', 'M203 40 mm Smokescreen', 'Tactical Foregrip', 'M203 40mm Recon', 'Bipod', 'M203 40mm Flash', 'Ranger Foregrip', 'M204 40mm Concussive', 'Operator Foregrip'],
+        ammunition: ['50 Round Mags', '60 Round Mags', '9mm Para 32-Round Mags', '.458 SOCOM 10-Round Mags'],
+        rearGrip: ['Granulated Grip Tape', 'Rubberized Grip Tape', 'Stippled Grip Tape'],
+        perk: ['FMJ', 'Sleight of Hand', 'Frangible-Wounding', 'Heavy Hitter', 'Fully Loaded', 'Burst', 'Recon','Mo\' Money', 'Fast Melee', 'Frangible Disabling', 'Presence of Mind']
       }
     },
     CR-56 AMAX: {
       attachments: {
-        muzzle: [],
-        barrel: [],
-        laser: [],
-        optic: [],
-        stock: [],
-        underbarrel: [],
-        ammunition: [],
-        rearGrip: [],
-        perks: []
+        muzzle: ['Flash Guard', 'Tactical Suppressor', ;'Muzzle Brake', 'Lightweight Suppressor', 'Compensator', 'Monolithic Suppressor'],
+        barrel: ['FSS 8.3" Intruder', 'XRK Zodiac S440', 'FSS 11.8" Squall'],
+        laser: ['1mW Laser', '5mW Laser', 'tac laser'],
+        optic: ['Cronen LP945 Mini Reflex', 'Corp Combat Holo Sight', 'Operator Reflex Sight', 'Scout Combat Optic', '4.0 Flip Hybrid', 'Aim-Op Reflex Sight', 'APX5 Holographic Sight', 'Integral Hybrid', 'Solozero NVG Enhanced', 'VLK 3.0 Optic', 'Sniper Scope', 'Viper Reflex Sight', 'G.I. Mini Reflex', 'PBX Holo 7 Sight', 'Cronen C480 Pro Optic', 'Monocle Reflex Sight', 'Variable Zoom Scope', 'Canted Hybrid', 'Merc Thermal Optic', 'Thermal Hybrid'],
+        stock: ['FSS Close Quarters Stock', 'FTAC Hunter', 'No Stock', 'FTAC Spartan', 'XRK Gatekeeper', 'CR-56 EXO'],
+        underbarrel: ['Commando Foregrip', 'M203 40mm High-explosive', 'M203 40mm Incediary', '12-Guage Deputy', 'Merc Foregrip', 'M203 40 mm Smokescreen', 'Tactical Foregrip', 'M203 40mm Recon', 'Bipod', 'M203 40mm Flash', 'Ranger Foregrip', 'M204 40mm Concussive', 'Operator Foregrip'],
+        ammunition: ['45 Round Mags', 'M67 10-R Mags'],
+        rearGrip: ['XRK CR-56 Granulated Wrap', 'XRK CR-56 Rubberized Wrap', 'XRK Stippled Wrap'],
+        perk: ['FMJ', 'Sleight of Hand', 'Frangible-Wounding', 'Heavy Hitter', 'Fully Loaded', 'Recon','Mo\' Money', 'Fast Melee', 'Frangible Disabling', 'Presence of Mind']
       }
     },
     AN-94: {
       attachments: {
-        muzzle: [],
-        barrel: [],
-        laser: [],
-        optic: [],
-        stock: [],
-        underbarrel: [],
-        ammunition: [],
-        rearGrip: [],
-        perks: []
+        muzzle: ['Flash Guard', 'AN-94 Sonic Brake', 'Tactical Suppressor', 'Lightweight Suppressor', 'Compensator', 'Monolithic Suppressor'],
+        barrel: ['AN-94 Factory 330mm', 'An-94 Factory X-438mm', 'VLK AN-94 Sila'],
+        laser: ['1mW Laser', '5mW Laser', 'tac laser'],
+        optic: ['Cronen LP945 Mini Reflex', 'Corp Combat Holo Sight', 'Operator Reflex Sight', 'Scout Combat Optic', '4.0 Flip Hybrid', 'Aim-Op Reflex Sight', 'APX5 Holographic Sight', 'Integral Hybrid', 'Solozero NVG Enhanced', 'VLK 3.0 Optic', 'Sniper Scope', 'Viper Reflex Sight', 'G.I. Mini Reflex', 'PBX Holo 7 Sight', 'Cronen C480 Pro Optic', 'Monocle Reflex Sight', 'Variable Zoom Scope', 'Canted Hybrid', 'Merc Thermal Optic', 'Thermal Hybrid', 'POS-M3 Thermal Scope'],
+        stock: ['AN-94 Factory Heavy', 'FORGE TAC Ultralight', 'Folded Stock', 'FSS Close Quarters Stock', 'VLK PX-9 Pero'],
+        underbarrel: ['Commando Foregrip', 'M203 40mm High-explosive', 'M203 40mm Incediary', '12-Guage Deputy', 'Merc Foregrip', 'M203 40 mm Smokescreen', 'Tactical Foregrip', 'M203 40mm Recon', 'Bipod', 'M203 40mm Flash', 'Ranger Foregrip', 'M204 40mm Concussive', 'Operator Foregrip'],
+        ammunition: ['45 Round Mags', '60 Round Mags'],
+        rearGrip: ['Granulated Grip Tape', 'Rubberized Grip Tape', 'Stippled Grip Tape'],
+        perk: ['FMJ', 'Sleight of Hand', 'Frangible-Wounding', 'Heavy Hitter', 'Fully Loaded', 'Recon','Mo\' Money', 'Fast Melee', 'Frangible Disabling', 'Presence of Mind']
       }
     },
     ODEN: {
       attachments: {
-        muzzle: [],
-        barrel: [],
-        laser: [],
-        optic: [],
-        stock: [],
-        underbarrel: [],
-        ammunition: [],
-        rearGrip: [],
-        perks: []
+        muzzle: ['Flash Guard', 'CQB Breacher Device', 'Tactical Suppressor', 'Muzzle Brake', 'Colossus Suppressor', 'Compensator', 'Monolithic Suppressor'],
+        barrel: ['Oden Factory 810mm', 'Oden Factory 730mm', 'Oden Factory 420mm'],
+        laser: ['1mW Laser', '5mW Laser', 'tac laser'],
+        optic: ['Cronen LP945 Mini Reflex', 'Corp Combat Holo Sight', 'Operator Reflex Sight', 'Scout Combat Optic', '4.0 Flip Hybrid', 'Aim-Op Reflex Sight', 'APX5 Holographic Sight', 'Integral Hybrid', 'Solozero NVG Enhanced', 'VLK 3.0 Optic', 'Sniper Scope', 'Viper Reflex Sight', 'G.I. Mini Reflex', 'PBX Holo 7 Sight', 'Cronen C480 Pro Optic', 'Monocle Reflex Sight', 'Variable Zoom Scope', 'Canted Hybrid', 'Merc Thermal Optic', 'Thermal Hybrid'],
+        stock: ['FORGE TAC Ballast Pack', 'Oden Ultralight Hollow', 'FTAC Elite Comb],
+        underbarrel: ['Commando Foregrip', 'M203 40mm High-explosive', 'M203 40mm Incediary', '12-Guage Deputy', 'Merc Foregrip', 'M203 40 mm Smokescreen', 'Tactical Foregrip', 'M203 40mm Recon', 'Bipod', 'M203 40mm Flash', 'Ranger Foregrip', 'M204 40mm Concussive', 'Operator Foregrip'],
+        ammunition: ['50 Round Mags', '60 Round Mags', '9mm Para 32-Round Mags', '.458 SOCOM 10-Round Mags'],
+        rearGrip: ['Granulated Grip Tape', 'Rubberized Grip Tape', 'Stippled Grip Tape'],
+        perk: ['FMJ', 'Sleight of Hand', 'Frangible-Wounding', 'Heavy Hitter', 'Fully Loaded', 'Burst', 'Recon','Mo\' Money', 'Fast Melee', 'Frangible Disabling', 'Presence of Mind']
       }
     },
     FR 5.56: {
